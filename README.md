@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**sandeepm9919/sandeepm9919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Connect with me via &nbsp;<img width="20" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4"> <a href="https://[https://www.linkedin.com/in/sandeep-m-5b79a5275/](https://www.linkedin.com/in/sandeep-m-5b79a5275/)/" target="_blank">LinkedIn</a><br>
+
+
